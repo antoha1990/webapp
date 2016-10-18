@@ -121,7 +121,7 @@ public class ContactController {
 				" email entered "+ stringsearch.getName()+ "\n"
 		);
 
-
+//добавил сейчас
         return "redirect:/usersearch";
     }
 }
