@@ -122,7 +122,7 @@ public class ContactController {
 		);
 
 //добавил сейчас
-		
+		//комент еще один
         return "redirect:/usersearch";
     }
 }
